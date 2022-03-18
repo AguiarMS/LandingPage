@@ -4,6 +4,7 @@
 }
 
 .i-menu{
+  z-index: 2;
   width: 1311px;
   height: 55px;
 
@@ -168,7 +169,6 @@ span{
 }
 
 .i-ball-wrapper{
-  position: sticky;
   display: flex;
   justify-content: end;
   margin-top: 50px;

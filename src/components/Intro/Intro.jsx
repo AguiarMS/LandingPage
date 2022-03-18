@@ -17,7 +17,7 @@ const Intro = () => {
           <div className="i-button">
             <button className='i-landing-button'>Contact Me! <BsArrowRightCircle /></button>
             <div className="i-emote">
-              <img src={Arrow} alt="" className="i-" />
+              <img src={Arrow} alt="" className="i-img-arrow" />
             </div>
           </div>
         </div>

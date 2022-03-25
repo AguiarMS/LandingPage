@@ -41,6 +41,20 @@
    flex-direction: row;
 }
 
+.i-home:hover{
+  color: #7579FF;
+}
+.i-skills:hover{
+  color: #7579FF;
+}
+.i-portifolio:hover{
+  color: #7579FF;
+}
+.i-blog:hover{
+  color: #7579FF;
+}
+
+
 .i-skills{
   cursor: pointer;
 }
@@ -98,6 +112,14 @@ span{
   background-color: #7579FF;
 }
 
+.i-menu-button:hover{
+  background-color: #fff;
+  color: #333;
+}
+
+
+
+
 .i-button{
   margin-top: 50px;
   display: flex;
@@ -138,8 +160,14 @@ span{
   font-weight: 600;
   font-size: 24px;
   line-height: 36px;
-
 }
+
+.i-landing-button:hover{
+  background: linear-gradient(90deg, #B224E1 0%, #7579FF 100%);
+  opacity: 0.9;
+}
+
+
 
 .i-rigth{
   flex: 1;

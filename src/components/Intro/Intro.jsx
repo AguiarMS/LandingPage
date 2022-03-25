@@ -22,19 +22,19 @@ const Intro = () => {
           </div>
         </div>
       </div>
-      
+
       <div className="i-menu">
         <div className="i-menu-avatar" />
-          <div className="i-title-menu">Cristian Munoz</div>
+        <div className="i-title-menu">Cristian Munoz</div>
 
-          <div className="i-tab">
-            <span className="i-home">Home</span>
-            <span className="i-skills">Skills</span>
-            <span className="i-portifolio">Portifolio</span>
-            <span className="i-blog">Blog</span>
-          </div>
+        <div className="i-tab">
+          <span className="i-home">Home</span>
+          <span className="i-skills">Skills</span>
+          <span className="i-portifolio">Portifolio</span>
+          <span className="i-blog">Blog</span>
+        </div>
 
-          <button className='i-menu-button'>Contact Me</button>
+        <button className='i-menu-button'>Contact Me</button>
       </div>
 
 
